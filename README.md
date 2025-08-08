@@ -23,6 +23,8 @@
 
 *Solução proposta*
 
+![Diagrama](diagrama.drawio.png)
+
 # Sistema de Relatórios de Faturamento de Praças de Pedágio
 
 ## Visão Geral do Projeto
